@@ -1,0 +1,92 @@
+body{
+background-color: #464f53;
+}
+h6{
+    margin-top: 200px;
+font-size: 20px;
+letter-spacing: 4px;
+color: #b4b4b4;
+font-family: "Proxima Nova";
+margin-left: 225px;
+}
+h1{
+margin-left: 225px;
+font-size: 78px;
+letter-spacing: 4px;
+line-height: 74px;
+color: #2a2a2a;
+font-family: "Futura PT";
+}
+.p1{
+font-size: 30px;
+line-height: 62px;
+color: #8f8f8f;
+font-family: "Georgia";
+font-style: italic;
+margin-left: 225px;
+}
+.p2{
+
+font-size: 27px;
+line-height: 40px;
+color: #000000;
+font-family: "Georgia";
+margin-left: 225px;
+}
+.p3{
+
+font-size: 27px;
+line-height: 40px;
+color: #000000;
+font-family: "Georgia";
+margin-left: 225px;
+}
+
+.fon1{
+background-color: white;
+position: absolute;
+margin-top: 150px;
+margin-left: 70px;
+margin-right: 70px; 
+width: 1200px;
+height: 800px;
+}
+.black{
+margin-top: 50px;
+margin-left: 325px;
+margin-right: -299px;
+position: absolute;
+width: 1200px;
+height: 190px;
+background-color: #181818;
+}
+
+.title{
+    font-size: 15px;
+   margin-top: 30px;
+    color: #767676;
+    font-family: "Proxima Nova";  
+      margin-left: 50px;
+}
+.p4{
+margin-left: 50px;
+font-size: 48px;
+color: #fefefe;
+font-family: "Playfair Display";
+font-weight: 400;
+margin-top: -16px;
+}
+
+.panel{
+width: 1000px;
+height: 76px;
+background-color: #fbc02d;
+position: absolute;
+margin-top: 240px;
+margin-left: 370px;
+}
+
+.line1{
+    width: 2px;
+    height: 800px;
+}
